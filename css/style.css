@@ -81,6 +81,7 @@ form input{
 
 .buttons .btn-grey{
   background: grey;
+  color: black;
 }
 .buttons .btn-yellow{
   background: orange;
